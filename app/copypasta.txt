@@ -1,0 +1,9 @@
+{
+    "name": "Samsa",
+    "species": "cockroach",
+    "breed": "enormous",
+    "sex": "M",
+    "age": 0,
+    "pic": null,
+    "details": "uneasy dreams"
+}
